@@ -1,6 +1,7 @@
 {
   "name": "huntweb_v2",
   "version": "0.1.0",
+  "homepage": "https://carlosdiver.github.io/JSHunt/",
   "private": true,
   "dependencies": {
     "@babel/runtime": "^7.6.2",
@@ -35,6 +36,7 @@
     "@babel/core": "^7.6.2",
     "@babel/preset-env": "^7.6.2",
     "babel-loader": "^8.0.6",
+    "gh-pages": "^2.1.1",
     "webpack": "^4.41.0"
   }
 }
